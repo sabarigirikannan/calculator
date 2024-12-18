@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.btnStyle{
+    @apply bg-gray-100  rounded py-2 hover:bg-gray-300
+}
